@@ -1,0 +1,27 @@
+@font-face {
+  font-family: "Urbane";
+  src: url(../fonts/urbane/urbane-bold/Urbane-Bold.woff2), url(../fonts/urbane/urbane-bold/Urbane-Bold.woff); 
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Urbane";
+  src: url(../fonts/urbane/urbane-demibold/Urbane-DemiBold.woff2), url(../fonts/urbane/urbane-demibold/Urbane-DemiBold.woff); 
+  font-weight: 600;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Urbane";
+  src: url(../fonts/urbane/urbane-medium/Urbane-Medium.woff2), url(../fonts/urbane/urbane-medium/Urbane-Medium.woff); 
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: "Urbane";
+  src: url(../fonts/urbane/urbane-light/Urbane-Light.woff2), url(../fonts/urbane/urbane-light/Urbane-Light.woff); 
+  font-weight: 300;
+  font-style: normal;
+}
